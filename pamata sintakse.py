@@ -10,3 +10,6 @@ sk2 = input("ievadiet skaitli, kuru skaitīsiet:")
 summa = int(sk1) + int(sk2)
 print(summa)
 
+teksts = "Hello"
+for i in teksts:
+    print(i)
