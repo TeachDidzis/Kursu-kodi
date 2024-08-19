@@ -13,3 +13,8 @@ print(summa)
 teksts = "Hello"
 for i in teksts:
     print(i)
+
+def funkcija():
+    print("Šī ir funkcija")
+
+funkcija()
